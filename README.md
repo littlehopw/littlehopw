@@ -1,5 +1,5 @@
 # 💫 About Me: 
-💻<b>I am a Computer Science student, currently on my first semester.<br><br>✔️I have learned C, I have the AZ-900 Certificate and have experience with HTML/CSS;<br>📚 Learning Java, React and working on getting the AWS Certificates;<br><br>✨I enjoy Design and I have been to multiple programming competitions in Brazil as well.<br><br>🌙Dedication is never enough!
+💻<b>I am a Computer Science student, currently on my first semester.<br><br>✔️I have learned C, I have the AZ-900 Certificate and experience with HTML/CSS;<br>📚 Learning Java, Angular and working on getting the AWS Certificates;<br><br>✨I enjoy Design and have been to multiple programming competitions in Brazil as well.<br><br>🌙Dedication is never enough!
 
 ## 🌐 Socials: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/littlehopw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-clara-ribeiro-rodrigues-da-cunha-61665825b/)   
